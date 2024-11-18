@@ -6,7 +6,9 @@
     max-width: 540px;
     max-height: 540px;
 }
-
+body{
+    margin-top: 5px;
+}
 
 .input{
     margin-top: 50px;
