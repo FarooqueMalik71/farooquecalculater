@@ -1,9 +1,8 @@
 .main {
     background-color: black;
     margin: auto;
-    width: 30%;
-    height: 90%;
-    border-radius: 15%;
+    width: 34%;
+    border-radius: 9%;
     max-width: 540px;
     max-height: 540px;
 }
